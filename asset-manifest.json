@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/codehelp-home/static/css/main.71b74d45.css",
+    "main.js": "/codehelp-home/static/js/main.4539e66e.js",
+    "static/js/787.71219d15.chunk.js": "/codehelp-home/static/js/787.71219d15.chunk.js",
+    "index.html": "/codehelp-home/index.html",
+    "main.71b74d45.css.map": "/codehelp-home/static/css/main.71b74d45.css.map",
+    "main.4539e66e.js.map": "/codehelp-home/static/js/main.4539e66e.js.map",
+    "787.71219d15.chunk.js.map": "/codehelp-home/static/js/787.71219d15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71b74d45.css",
+    "static/js/main.4539e66e.js"
+  ]
+}
